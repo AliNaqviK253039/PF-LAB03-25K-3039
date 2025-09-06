@@ -1,5 +1,5 @@
 # MY INTRODUCTION
 ## MY HOBBIES
-- Reading books
-+ Meditation
-* Listening to music
+1. Reading books
+2. Meditation
+3. Listening to music
